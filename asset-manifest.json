@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tcc_app/static/css/main.dac23c67.css",
+    "main.js": "/tcc_app/static/js/main.f6aebb01.js",
+    "static/js/787.7b6dea5d.chunk.js": "/tcc_app/static/js/787.7b6dea5d.chunk.js",
+    "index.html": "/tcc_app/index.html",
+    "main.dac23c67.css.map": "/tcc_app/static/css/main.dac23c67.css.map",
+    "main.f6aebb01.js.map": "/tcc_app/static/js/main.f6aebb01.js.map",
+    "787.7b6dea5d.chunk.js.map": "/tcc_app/static/js/787.7b6dea5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac23c67.css",
+    "static/js/main.f6aebb01.js"
+  ]
+}
